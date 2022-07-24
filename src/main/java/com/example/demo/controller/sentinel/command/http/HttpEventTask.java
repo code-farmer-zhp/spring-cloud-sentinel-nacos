@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.demo.controller.command.http;
+package com.example.demo.controller.sentinel.command.http;
 
 import com.alibaba.csp.sentinel.command.CommandHandler;
 import com.alibaba.csp.sentinel.command.CommandRequest;
@@ -22,7 +22,7 @@ import com.alibaba.csp.sentinel.config.SentinelConfig;
 import com.alibaba.csp.sentinel.transport.log.CommandCenterLog;
 import com.alibaba.csp.sentinel.transport.util.HttpCommandUtils;
 import com.alibaba.csp.sentinel.util.StringUtil;
-import com.example.demo.controller.command.exception.RequestException;
+import com.example.demo.controller.sentinel.command.exception.RequestException;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;

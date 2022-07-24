@@ -1,4 +1,4 @@
-package com.example.demo.controller.command.http;
+package com.example.demo.controller.sentinel.command.http;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

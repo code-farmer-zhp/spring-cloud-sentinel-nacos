@@ -1,1 +1,1 @@
-com.example.demo.controller.command.http.SimpleHttpCommandCenter
+com.example.demo.controller.sentinel.command.http.SimpleHttpCommandCenter

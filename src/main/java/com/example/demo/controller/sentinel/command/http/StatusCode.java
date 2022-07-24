@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.demo.controller.command.http;
+package com.example.demo.controller.sentinel.command.http;
 
 /**
  * @author Jason Joo
